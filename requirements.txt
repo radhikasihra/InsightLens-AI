@@ -1,0 +1,12 @@
+streamlit
+PyMuPDF
+numpy
+torch
+Pillow
+python-dotenv
+transformers
+langchain-core
+langchain-text-splitters
+langchain-community
+faiss-cpu
+mistralai
