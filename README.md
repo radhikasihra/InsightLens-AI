@@ -1,4 +1,4 @@
-# Multimodal PDF RAG System
+# InsightLens AI
 
 An AI-powered **Multimodal Retrieval-Augmented Generation (RAG)** system designed to understand and retrieve information from both **text and images inside PDF documents**.
 
